@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @KuraiLH
-- 👀 I’m interested in Coding Different Things
-- 🌱 I’m currently learning JS and Discord Bot Development
-- 💞️ I’m looking to collaborate on Anything as long as it benefits us both
-- 📫 How to reach me KuraiLH#6428 on Discord
+![](https://komarev.com/ghpvc/?username=sk-147)
 
-<!---
-KuraiLH/KuraiLH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="center">
+  <a href="https://github.com/sk-147">
+    <img src="https://discord.c99.nl/widget/theme-4/914930084127854612.png"/>
+     </a>
+  </p>
+  
+# Statistics
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=sk-147&show_icons=true&theme=dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sk-147&theme=dark" />
