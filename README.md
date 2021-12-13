@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Instinct-9">
-    <img src="https://discord.c99.nl/widget/theme-4/919680632181895218.png"/>
+    <img src="https://discord.c99.nl/widget/theme-2/919680632181895218.png"/>
      </a>
   </p>
   
